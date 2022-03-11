@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/FF0000?style=social&logo=ED1C24&logoColor=white"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)
