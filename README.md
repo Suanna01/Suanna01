@@ -1,19 +1,4 @@
-<!--
-**Suanna01/Suanna01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-**Hi there, I'm Sung-won Yang 👋**
+**Hi there👋, I'm Sung-won Yang😄**
 
 Currently working on app frontend and backend (using NodeJS and Java). Recently, start learning NodeJS
 
@@ -22,7 +7,19 @@ Currently working on app frontend and backend (using NodeJS and Java). Recently,
 ![c](https://user-images.githubusercontent.com/86403488/157898042-d4701df0-79e7-47d4-8fae-410d4da7871b.png)
 ![py](https://user-images.githubusercontent.com/86403488/157897980-d2ce1b14-d667-4f12-916b-8d8063b42b3c.png)
 
-
 <a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)
+
+
+💪 Skills
+Platforms & Languages
+
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+
+
+Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
