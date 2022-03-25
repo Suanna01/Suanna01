@@ -6,7 +6,7 @@
   # Hi there👋, I'm Sung-won Yang😄
   Currently working on app frontend and backend (using NodeJS and Java). Recently, start learning NodeJS ❤️
 
-  </br></br>
+  </br>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)   
 
