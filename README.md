@@ -1,7 +1,7 @@
 <div align="center">
   </br>
   
-  ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=✪‿✪%20&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=˵✪‸✪˵%20&fontSize=90)
   </br></br></br>
   # Hi there👋, I'm Sung-won Yang😄
   Currently working on app frontend and backend (using NodeJS and Java). 
