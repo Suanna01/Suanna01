@@ -9,10 +9,8 @@
   Recently, start learning NodeJS ❤️
 
   </br>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)   
-
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
   </br></br>
   ## 🌹 Platforms & Tech 🌹
 
