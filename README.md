@@ -9,8 +9,9 @@
   Recently, start learning NodeJS ❤️
 
   </br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)<br/>
+
   </br></br>
   ## 🌹 Platforms & Tech 🌹
 
