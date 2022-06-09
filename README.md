@@ -9,7 +9,7 @@
   Recently, start learning NodeJS ❤️
 
   </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)<br/>
 
