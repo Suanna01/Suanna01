@@ -8,17 +8,17 @@
   
   Recently, start learning NodeJS ❤️
 
+  </br></br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+  </br></br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)
   </br></br>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
   </br>
- 
   </br></br>
   
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
  
   </br></br>
   ## 🌹 Platforms & Tech 🌹
@@ -51,7 +51,8 @@
 
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
-
+   </br></br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
    </br></br>
 
   ## 💌Today💌
@@ -59,5 +60,6 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01&count_bg=%237CCCE5&title_bg=%23C8C8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+</br></br>
+ 
 </div>
