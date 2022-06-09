@@ -8,14 +8,12 @@
   
   Recently, start learning NodeJS ❤️
 
-  </br></br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+ 
   </br></br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)
-  </br></br>
-  
-  </br>
+   </br></br></br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
   </br></br>
   
   ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
