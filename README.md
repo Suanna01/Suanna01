@@ -1,24 +1,22 @@
 <div align="center">
-  </br>
+</br>
 
-  ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=ฅ^•ﻌ•^ฅ&fontSize=50&animation=blinking)
-  </br></br></br>
-  # Hi there👋, I'm Sung-won Yang  ˵✪‸✪˵😄
-  Currently working on app frontend and backend (using NodeJS and Java). 
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=ฅ^•ﻌ•^ฅ&fontSize=50&animation=blinking)
+</br></br></br>
+# Hi there👋, I'm Sung-won Yang  ˵✪‸✪˵😄
+Currently working on app frontend and backend (using NodeJS and Java). 
   
-  Recently, start learning NodeJS ❤️
+Recently, start learning NodeJS ❤️
 
- 
-  </br></br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india)
-   </br></br></br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
-
-  </br></br>
+</br></br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+</br></br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india)
+</br></br></br>
   
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
-
   
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
+
   ## 🌹 Platforms & Tech 🌹
 
 
@@ -26,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
-  </br></br>
+  </br>
 
   ## 💻Languages💻
 
