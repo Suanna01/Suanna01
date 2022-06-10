@@ -1,9 +1,9 @@
 <div align="center">
   </br>
-  
-  ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=˵✪‸✪˵%20&fontSize=90&animation=blinking)
+
+  ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=ฅ^•ﻌ•^ฅ&fontSize=50&animation=blinking)
   </br></br></br>
-  # Hi there👋, I'm Sung-won Yang😄
+  # Hi there👋, I'm Sung-won Yang  ˵✪‸✪˵😄
   Currently working on app frontend and backend (using NodeJS and Java). 
   
   Recently, start learning NodeJS ❤️
