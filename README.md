@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=ฅ^•ﻌ•^ฅ&fontSize=50&animation=blinking)
 </br></br></br>
-# Hi there👋, I'm Sung-won Yang  ˵✪‸✪˵😄
+# Hi there👋 I'm Sung-won Yang😝
 Currently working on app frontend and backend (using NodeJS and Java). 
   
 Recently, start learning NodeJS ❤️
