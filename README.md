@@ -17,8 +17,7 @@
   </br></br>
   
   ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
- 
-  </br>
+
   
   ## 🌹 Platforms & Tech 🌹
 
