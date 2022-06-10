@@ -18,7 +18,8 @@
   
   ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
  
-  </br></br>
+  </br>
+  
   ## 🌹 Platforms & Tech 🌹
 
 
@@ -58,7 +59,6 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01&count_bg=%237CCCE5&title_bg=%23C8C8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</br></br>
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
