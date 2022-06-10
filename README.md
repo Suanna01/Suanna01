@@ -10,9 +10,9 @@
 
  
   </br></br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=buefy)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india)
    </br></br></br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
 
   </br></br>
   
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 </br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact)](https://github.com/Suanna01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=flag-india)](https://github.com/Suanna01/github-readme-stats)
 </br></br>
 
   ## 🧰Tools🧰
