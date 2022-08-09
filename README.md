@@ -8,15 +8,10 @@ Currently working on app frontend and backend (using NodeJS and Java).
 
 Recently, start learning NodeJS ❤️
 
-</br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
-</br></br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india)
-</br></br></br>
-  
-  
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india)
+
+</br></br></br>
 ## 🌹 Platforms & Tech 🌹
 
 
