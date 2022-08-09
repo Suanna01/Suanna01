@@ -9,11 +9,12 @@ Currently working on app frontend and backend (using NodeJS and Java).
 Recently, start learning NodeJS ❤️
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india)
+|👇|👇|
+|------|---|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india) |
 
 </br></br></br>
 ## 🌹 Platforms & Tech 🌹
-
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
