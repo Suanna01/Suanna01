@@ -30,7 +30,7 @@ Recently, start learning NodeJS🍀
 
 ### 🍊Me🍊
 
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
+<!--<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>-->
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
 </br>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=flag-india)](https://github.com/Suanna01/github-readme-stats)-->
