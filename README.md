@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=250&section=header&text=ฅ^•ﻌ•^ฅ&fontSize=50&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header)
 </br></br>
 ### Hi👋 I'm Sung-won Yang🍒 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
 Currently working on app frontend and backend (using NodeJS and Java). </br>
@@ -41,6 +41,6 @@ Recently, start learning NodeJS🍀
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 </div>
