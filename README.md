@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header)
 ### Hi👋 I'm Sung-won Yang🍒 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
 Currently working on app frontend and backend (using NodeJS and Java). </br>
 Recently, start learning NodeJS🍀
