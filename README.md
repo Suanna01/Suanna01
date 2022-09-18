@@ -1,47 +1,59 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sungone%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=150&section=header)
-### Hi👋 I'm Sung-won Yang🍒 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
-Currently working on app frontend and backend (using NodeJS and Java). </br>
-Recently, start learning NodeJS🍀
-</br>
+## Hi there ❗👋 <img src="./images/profile.png" align="right" height="300"/>
 
-### 🛠️Platforms & Tech🛠️
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01&count_bg=%23FF5252&title_bg=%23535353&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
+<!--[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)-->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlgns0705)](https://solved.ac/mer0ng)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+
+<samp>I'm Sung-won Yang from 🇰🇷 Republic of Korea. You can call me **Sung-won**! I'm Undergraduate Student of Computer Engineering of Sungshin Women's University. I'm studying hard to be a **Back-End Developer**. I like *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate! </samp>
+
+[![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
+<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+### 🙋‍♀️ Who am I?
+- Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/sungshin.jpg" width="30"></a>
+- January 01, 2001 is my b-day
+### ⚡ My Tech Stacks
+![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
+![Express](http://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
+![Expo](http://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
+![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white) <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> ![C++](http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Google Cloud Platform](http://img.shields.io/badge/-Google_Cloud_Platform-34ab53?style=flat-square&logo=GoogleCloud)
+![Firebase](http://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase)
+![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
+![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
 
-### 🌺Languages🌺
+<!--![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)-->
+<!--![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)-->
+<!--![NextJS](http://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)-->
+<!--![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white)-->
+<div align="center">
+<h3>Github Profile</h3>
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+  
+![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=onedark&hide_border=true)
 
-### 🧰Tools🧰
+</div>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-</br>
+<!--<div align="center">
+<h3>⌛ Coding Time ⌛</h3>
 
-### 🍊Me🍊
+[![Sungone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suanna01)](https://github.com/anuraghazra/github-readme-stats)
+</div>-->
 
-<!--<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>>-->
-<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a> [![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
-</br>
+<div align="center">
+<h3>🏆 BOJ Profile 🏆</h3>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=flag-india)](https://github.com/Suanna01/github-readme-stats)-->
-
-### 🐣Today🐣
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01&count_bg=%237CCCE5&title_bg=%23C8C8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgns0705)](https://solved.ac/mer0ng)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=mer0ng&theme=dark)
 
 
-|🐹|🍑|
-|--|--|
-| [![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&row=2&column=3&margin-w=15&margin-h=15&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy) |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=flag-india) |
-
-<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)-->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)
 </div>
