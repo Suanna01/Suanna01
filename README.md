@@ -28,7 +28,11 @@
 ![Firebase](http://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase)
 ![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
-
+![Amazon AWS](http://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS)
+![Amazon RDS](http://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat-square&logo=Amazon%20RDS)
+![Amazon EC2](http://img.shields.io/badge/-Amazon_EC2-FF9900?style=flat-square&logo=Amazon%20EC2)
+![Amazon S3](http://img.shields.io/badge/-Amazon_S3-569A31?style=flat-square&logo=Amazon%20S3)
+![Django](http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
 <!--![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)-->
 <!--![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)-->
 <!--![NextJS](http://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)-->
