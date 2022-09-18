@@ -19,7 +19,6 @@
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
 ![Express](http://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
-![Expo](http://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
