@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sungone%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=300&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sungone%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
 ## Hi there ❗👋 <img src="./images/profile.png" align="right" height="300"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01&count_bg=%23FF5252&title_bg=%23535353&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
-<!--[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlgns0705)](https://solved.ac/mer0ng)
 
+<!--[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)-->
 
 <samp>I'm Sung-won Yang from 🇰🇷 Republic of Korea. You can call me **Sung-won**! I'm Undergraduate Student of Computer Engineering of Sungshin Women's University. I'm studying hard to be a **Back-End Developer**. I like *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate! </samp>
 
@@ -13,8 +13,8 @@
 <a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 ### 🙋‍♀️ Who am I?
-- Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/sungshin.jpg" width="30"></a>
-- January 01, 2001 is my b-day
+- Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
+- January 01, 2001 is my b-day 🎉
 ### ⚡ My Tech Stacks
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
@@ -36,9 +36,9 @@
 <div align="center">
 <h3>Github Profile</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
   
-![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=onedark&hide_border=true)
+![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -49,11 +49,17 @@
 </div>-->
 
 <div align="center">
-<h3>🏆 BOJ Profile 🏆</h3>
+<h3>🥈 BOJ Profile 🥈</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgns0705)](https://solved.ac/mer0ng)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mer0ng&theme=dark)
 
-
+  
+<h3>🏆 Trophy 🏆</h3>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&margin-w=15&margin-h=15&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+    
+<h3>⛅ Weather ⛅</h3>
+  
 [![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)
 </div>
