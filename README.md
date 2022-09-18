@@ -34,7 +34,7 @@
 <!--![NextJS](http://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)-->
 <!--![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=Kotlin&logoColor=white)-->
 <div align="center">
-<h3>Github Profile</h3>
+<h3>🍀 Github Profile 🍀</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
   
