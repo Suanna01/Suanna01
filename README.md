@@ -36,9 +36,7 @@
 <div align="center">
 <h3>🍀 Github Profile 🍀</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) 
-  
-![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) ![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=material-palenight&hide_border=true)
 
 </div>
 
