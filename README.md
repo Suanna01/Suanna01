@@ -14,7 +14,7 @@
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 ### 🙋‍♀️ Who am I?
 - Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
-- January 01, 2001 is my b-day 🎉
+- My b-day is January 01, 2001🎉
 ### ⚡ My Tech Stacks
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
 ![Express](http://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
