@@ -16,25 +16,25 @@
 - Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
 - January 01, 2001 is my b-day 🎉
 ### ⚡ My Tech Stacks
-![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
 ![Express](http://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
-![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
-![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white) <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> ![C++](http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Google Cloud Platform](http://img.shields.io/badge/-Google_Cloud_Platform-34ab53?style=flat-square&logo=GoogleCloud)
-![Firebase](http://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase)
-![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
-![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
 ![Amazon AWS](http://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS)
-![Amazon RDS](http://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat-square&logo=Amazon%20RDS)
-![Amazon EC2](http://img.shields.io/badge/-Amazon_EC2-FF9900?style=flat-square&logo=Amazon%20EC2)
-![Amazon S3](http://img.shields.io/badge/-Amazon_S3-569A31?style=flat-square&logo=Amazon%20S3)
+![Firebase](http://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase)
 ![Django](http://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring)
 ![Spring Boot](http://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot)
+![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
+![Python](http://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white) <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> ![C++](http://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
+![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
+![Amazon RDS](http://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat-square&logo=Amazon%20RDS)
+![Amazon EC2](http://img.shields.io/badge/-Amazon_EC2-FF9900?style=flat-square&logo=Amazon%20EC2)
+![Amazon S3](http://img.shields.io/badge/-Amazon_S3-569A31?style=flat-square&logo=Amazon%20S3)
 <!--![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)-->
 <!--![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white)-->
 <!--![NextJS](http://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js&logoColor=white)-->
