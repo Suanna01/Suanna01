@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=280&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sungone%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
-## Hi there ❗👋 <img src="./images/profile.png" align="right" height="300"/>
+## Hi there👋 <img src="./images/profile.png" align="right" height="300"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01&count_bg=%23FF5252&title_bg=%23535353&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlgns0705)](https://solved.ac/mer0ng)
