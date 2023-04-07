@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=D1B2FF&height=280&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sungone%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=280&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sungone%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
 ## Hi there👋 <img src="./images/profile.png" align="right" height="300"/>
 
@@ -17,18 +17,18 @@
 - My b-day is January 01, 2001🎉
 ### ⚡ My Tech Stacks
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js)
-![Spring Boot](http://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot)
+![Spring Boot](http://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](http://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![Google Cloud Platform](http://img.shields.io/badge/-Google_Cloud_Platform-34ab53?style=for-the-badge&logo=GoogleCloud)
 ![Amazon AWS](http://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=AmazonAWS)
-![Docker](http://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker)
-![Amazon RDS](http://img.shields.io/badge/-Amazon_RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white")
-![Amazon EC2](http://img.shields.io/badge/-Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white")
-![Amazon S3](http://img.shields.io/badge/-Amazon_S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white")
-![jenkins](http://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white")
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white")
+![Docker](http://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Amazon RDS](http://img.shields.io/badge/-Amazon_RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+![Amazon EC2](http://img.shields.io/badge/-Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
+![Amazon S3](http://img.shields.io/badge/-Amazon_S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white)
+![jenkins](http://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Firebase](http://img.shields.io/badge/-Firebase-2C384A?style=for-the-badge&logo=firebase)
 ![Git](http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
@@ -43,8 +43,9 @@
 <div align="center">
 <h3>🍀 Github Profile 🍀</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) ![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=material-palenight&hide_border=true)
-
+![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=vue&hide_border=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
 </div>
 
 <!--<div align="center">
@@ -62,7 +63,7 @@
   
 <h3>🏆 Trophy 🏆</h3>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&margin-w=15&margin-h=15&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&margin-w=15&margin-h=15&theme=vue&row=1)](https://github.com/ryo-ma/github-profile-trophy)
     
 <h3>⛅ Weather ⛅</h3>
   
