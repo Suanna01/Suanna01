@@ -9,9 +9,9 @@
 
 <samp>I'm Sung-won Yang from 🇰🇷 Republic of Korea. You can call me **Sung-won**! I'm Undergraduate Student of Computer Engineering of Sungshin Women's University. I'm studying hard to be a **Back-End Developer**. I like *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate! </samp>
 
-[![Tidal](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
-<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://sungone.tistory.com/)
+<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 ### 🙋‍♀️ Who am I?
 - Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
 - My b-day is January 01, 2001🎉
