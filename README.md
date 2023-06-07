@@ -56,11 +56,12 @@
 [![Sungone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suanna01)](https://github.com/anuraghazra/github-readme-stats)
 </div>-->
 
+<!--
 <div align="center">
 <h3>🥈 BOJ Profile 🥈</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=mer0ng&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=mer0ng&theme=dark)-->
   
   
 <!-- 
