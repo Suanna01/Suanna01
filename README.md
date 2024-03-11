@@ -45,7 +45,7 @@
 <div align="center">
 <h3>💙 Github Profile 💙<h3>
 
-![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=vue&hide_border=true)
+![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=transparent&hide_border=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
 </div>
