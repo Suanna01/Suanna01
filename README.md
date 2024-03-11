@@ -1,16 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B4ED88&height=280&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sung-won%20&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0042ED&height=240&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sung-won%20&fontSize=55&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
 
 ## Hi there👋 <img src="./images/profile.png" align="right" height="300"/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01%2Fhit-counter&count_bg=%2393E554&title_bg=%23D3D3D3&icon=badoo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01%2Fhit-counter&count_bg=%230042ED&title_bg=%23D3D3D3&icon=badoo.svg&icon_color=%230042ED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)-->
 
-<samp>I'm Sung-won Yang from 🇰🇷 Republic of Korea. You can call me **Sung-won**! I'm Undergraduate Student of Computer Engineering of Sungshin Women's University. I'm studying hard to be a **Back-End Developer**. I like *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate! </samp>
+<samp>I'm Sung-won Yang from 🇰🇷 Republic of Korea. You can call me **Sung-won**! I'm Undergraduate Student of Computer Engineering of Sungshin Women's University. I'm studying hard to be a **Back-End Developer**. I like *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate!</samp>
 
-[![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://blu-blu.tistory.com)
-<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=for-the-badge&logo=Naver&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+[![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://blu-blu.tistory.com) 
+<!--<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=for-the-badge&logo=Naver&logoColor=white"/></a>-->
+<!--<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>-->
 ### 🙋‍♀️ Who am I?
 - Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
 - My b-day is January 01, 2001🎉
@@ -43,7 +43,7 @@
 <!--![NextJS](http://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)-->
 <!--![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white)-->
 <div align="center">
-<h3>🍀 Github Profile 🍀</h3>
+<h3>💙 Github Profile 💙<h3>
 
 ![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=vue&hide_border=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
