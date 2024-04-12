@@ -14,6 +14,17 @@
 ### 🙋‍♀️ Who am I?
 - Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
 - My b-day is January 01, 2001🎉
+
+### 🍎 Projects
+|Project|Contest|Tech|Award|Year|
+|:---:|:---:|:---:|:---:|:---:|
+|동네친구:1인 가구 맞춤 동네 커뮤니티와 가계부 관리를 돕는 앱|UMC 동아리 프로젝트|Back-End(SpringBoot)|참여|2023|
+|IDear:Chat GPT가 원하는 인격으로 원하는 글을 써주는 앱|UMC 너디너리 해커톤|Back-End(SpringBoot)|우수상|2023|
+|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
+|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
+
 ### ⚡ My Tech Stacks
 ![Spring Boot](http://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=Node.js)
