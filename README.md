@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=B2CCFF&height=240&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sung-won%20&fontSize=55&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
+![image](https://github.com/Suanna01/Suanna01/assets/86403488/b766d601-36a8-4738-80f1-99d3b822cd13)![header](https://capsule-render.vercel.app/api?type=shark&color=B2CCFF&height=240&section=header&text=Good%20to%20see%20you%20😝&desc=I'm%20Sung-won%20&fontSize=55&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
 
 ## Hi there👋 <img src="./images/profile.png" align="right" height="300"/>
 
@@ -18,12 +18,12 @@
 ### 🍎 Projects
 |Project|Contest|Tech|Award|Year|
 |:---:|:---:|:---:|:---:|:---:|
-|동네친구:1인 가구 맞춤 동네 커뮤니티와 가계부 관리를 돕는 앱|UMC 동아리 프로젝트|Back-End(SpringBoot)|참여|2023|
-|IDear:Chat GPT가 원하는 인격으로 원하는 글을 써주는 앱|UMC 너디너리 해커톤|Back-End(SpringBoot)|우수상|2023|
-|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|오른쪽정렬|중앙정렬|
+|동네친구 : 1인 가구 맞춤 동네 커뮤니티와 가계부 관리를 돕는 앱|UMC 동아리 프로젝트|Back-End(SpringBoot)|참여|2023|
+|IDear : Chat GPT가 원하는 인격으로 원하는 글을 써주는 앱|UMC 너디너리 해커톤|Back-End(SpringBoot)|우수상|2023|
+|시시콜콜 : 시각장애인과 활동 지원사의 매칭을 도와주는 앱|KBSC(KB국민은행 소프트웨어 경진대회)|Back-End(Node.js)|참여|2022|
+|컴홈 : 성신여대 컴퓨터공학과 공식 홈페이지를 개선한 웹|성신여자대학교 소프트웨어경진대회|Back-End(Node.js)|은상|2022|
+|공동장 : 제로웨이스트 생활을 실천하는 농산물 공동구매 앱|SK Lookie|Full-Stack(Android Studio, Node.js)|참여|2022|
+|수정물산 : 성신여대 굿즈를 판매 및 구매할 수 있는 쇼핑몰 앱|성신여자대학교 소프트웨어경진대회|Full-Stack(Android Studio, Firebase)|은상|2021|
 
 ### ⚡ My Tech Stacks
 ![Spring Boot](http://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
