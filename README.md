@@ -19,7 +19,7 @@
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
 |[동네친구 : 1인 가구 맞춤 동네 커뮤니티와 가계부 관리를 돕는 앱](https://github.com/DongnaeFriend)|UMC 동아리 프로젝트|Back-End(SpringBoot)|  참여  |2023|
-|[IDear : Chat GPT가 원하는 인격으로 원하는 글을 써주는 앱](https://github.com/Nbti)|UMC 너디너리 해커톤|Back-End(SpringBoot)|우수상|2023|
+|[IDear : Chat GPT가 원하는 인격으로 원하는 글을 써주는 앱](https://github.com/Nbti)|UMC 너디너리 해커톤|Back-End(SpringBoot)|최우수상|2023|
 |[시시콜콜 : 시각장애인과 활동 지원사의 매칭을 도와주는 앱](https://github.com/sisicolcol)|KBSC(KB국민은행 소프트웨어 경진대회)|Back-End(Node.js)|  참여  |2022|
 |[컴홈 : 성신여대 컴퓨터공학과 공식 홈페이지를 개선한 웹](https://github.com/ComHomeDev)|성신여자대학교 소프트웨어경진대회|Back-End(Node.js)|  은상  |2022|
 |[공동장 : 제로웨이스트 생활을 실천하는 농산물 공동구매 앱](https://github.com/Gongdongjang)|SK Lookie|Full-Stack(Android Studio, Node.js)|  참여  |2022|
