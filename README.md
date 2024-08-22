@@ -57,7 +57,7 @@
 <h3>💙 Github Profile 💙<h3>
 
 ![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=transparent&hide_border=true)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+
 </div>
 </div>
 
@@ -65,7 +65,7 @@
 <h3>⌛ Coding Time ⌛</h3>
 
 [![Sungone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suanna01)](https://github.com/anuraghazra/github-readme-stats)
-</div>-->
+</div>
 
 <!--
 <div align="center">
@@ -73,14 +73,4 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mer0ng&theme=dark)
-  
-  
-<!-- 
-<h3>🏆 Trophy 🏆</h3>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suanna01&margin-w=15&margin-h=15&theme=vue&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-    
-<!-- <h3>⛅ Weather ⛅</h3>
-  
-[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)
-</div> -->
+-->
