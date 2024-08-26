@@ -1,10 +1,10 @@
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0100FF&height=240&section=header&text=🤍%20Welcome%20🤍&desc=I'm%20Sung-won%20&fontSize=55&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0100FF&height=100&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D9E5FF&height=100&section=header&animation=fadeIn)
 
 
-## Hi there👋🏻 <img src="./images/profile.png" align="right" height="300"/>
+## Hi there👋🏻 <img src="./images/profile.png" align="right" height="250"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01%2Fhit-counter&count_bg=%230042ED&title_bg=%23D3D3D3&icon=badoo.svg&icon_color=%230042ED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
