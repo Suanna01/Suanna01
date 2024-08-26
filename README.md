@@ -11,11 +11,11 @@
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://blu-blu.tistory.com) 
 <!--<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=for-the-badge&logo=Naver&logoColor=white"/></a>-->
 <!--<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>-->
-### 🙋‍♀️ Who am I?
+### 🐼 Who am I?
 - Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
 - My b-day is January 01, 2001🎉
 
-### 🍎 Projects
+### 👩🏻‍💻 Projects
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
 |[동네친구 : 1인 가구 맞춤 동네 커뮤니티와 가계부 관리를 돕는 앱](https://github.com/DongnaeFriend)|UMC 동아리 프로젝트|Back-End(SpringBoot)|  참여  |2023|
@@ -24,6 +24,15 @@
 |[컴홈 : 성신여대 컴퓨터공학과 공식 홈페이지를 개선한 웹](https://github.com/ComHomeDev)|성신여자대학교 소프트웨어경진대회|Back-End(Node.js)|  은상  |2022|
 |[공동장 : 제로웨이스트 생활을 실천하는 농산물 공동구매 앱](https://github.com/Gongdongjang)|SK Lookie|Full-Stack(Android Studio, Node.js)|  참여  |2022|
 |[수정물산 : 성신여대 굿즈를 판매 및 구매할 수 있는 쇼핑몰 앱](https://github.com/Suanna01/CrystalProduct)|성신여자대학교 소프트웨어경진대회|Full-Stack(Android Studio, Firebase)|  은상  |2021|
+
+
+### 🧸 Currently in progress
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=Coco&theme=default)](https://github.com/Suanna01/Coco)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=CodingCo&theme=default)](https://github.com/Suanna01/CodingCo)
+
+
+
 
 ### ⚡ My Tech Stacks
 ![Spring Boot](http://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -53,12 +62,17 @@
 <!--![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)-->
 <!--![NextJS](http://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)-->
 <!--![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white)-->
+
+
+
 <div align="center">
 <h3>💙 Github Profile 💙<h3>
 
 ![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=transparent&hide_border=true)
 
 </div>
+
+
 </div>
 
 <!--<div align="center">
