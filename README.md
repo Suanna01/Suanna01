@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B2CCFF&height=240&section=header&text=🤍%20Welcome%20🤍&desc=I'm%20Sung-won%20&fontSize=55&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
+<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=0100FF&height=240&section=header&text=🤍%20Welcome%20🤍&desc=I'm%20Sung-won%20&fontSize=55&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)-->
 
 ## Hi there👋🏻 <img src="./images/profile.png" align="right" height="300"/>
 
