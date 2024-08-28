@@ -74,6 +74,10 @@
 
 ![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=transparent&hide_border=true)
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&theme=default)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
 </div>
 
 
