@@ -33,6 +33,8 @@
 ### 🧸 Currently in progress
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=Coco&theme=default)](https://github.com/Suanna01/Coco)
 &nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=Coco_Client&theme=default)](https://github.com/Suanna01/CocO_Client)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=CodingCo&theme=default)](https://github.com/Suanna01/CodingCo)
 
 
