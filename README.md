@@ -1,23 +1,28 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=0100FF&height=240&section=header&text=🤍%20Welcome%20🤍&desc=I'm%20Sung-won%20&fontSize=55&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)-->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D9E5FF&height=100&section=header&animation=fadeIn)
+
 
 
 ## Hi there👋🏻 <img src="./images/profile.png" align="right" height="250"/>
 
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuanna01%2Fhit-counter&count_bg=%230042ED&title_bg=%23D3D3D3&icon=badoo.svg&icon_color=%230042ED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)-->
+
 
 <samp>I'm Sung-won Yang from 🇰🇷 Republic of Korea. You can call me **Sung-won**! I'm Undergraduate Student of Computer Engineering of Sungshin Women's University. I'm studying hard to be a **Back-End Developer**. I like *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate!</samp>
 
+
+
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://blu-blu.tistory.com) 
-<!--<a href="https://blog.naver.com/yangnony01" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-3DDC84?style=for-the-badge&logo=Naver&logoColor=white"/></a>-->
-<!--<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/yangnony01@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>-->
+
+
+
 ### 🐼 Who am I?
 - Undergraduate of Sungshin Women's Univ. <a href="https://www.sungshin.ac.kr/"><img src="./images/logo.png" width="25"></a>
 - My b-day is January 01, 2001🎉
+
+
 
 ### 👩🏻‍💻 Projects
 |Project|Contest|Tech| Award |Year|
@@ -30,13 +35,13 @@
 |[수정물산 : 성신여대 굿즈를 판매 및 구매할 수 있는 쇼핑몰 앱](https://github.com/Suanna01/CrystalProduct)|성신여자대학교 소프트웨어경진대회|Full-Stack(Android Studio, Firebase)|  은상  |2021|
 
 
+
 ### 🧸 Currently in progress
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=Coco&theme=default)](https://github.com/Suanna01/Coco)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=Coco_Client&theme=default)](https://github.com/Suanna01/CocO_Client)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suanna01&repo=CodingCo&theme=default)](https://github.com/Suanna01/CodingCo)
-
 
 
 
@@ -64,10 +69,6 @@
 ![Python](http://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=Python&logoColor=white) 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/> 
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-<!--![Typescript](http://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)-->
-<!--![Socket.io](http://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)-->
-<!--![NextJS](http://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)-->
-<!--![Kotlin](http://img.shields.io/badge/-Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white)-->
 
 
 
@@ -76,20 +77,16 @@
 
 ![Sungone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suanna01&show_icons=true&theme=transparent&hide_border=true)
 
+
+
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suanna01&theme=default)](https://github.com/anuraghazra/github-readme-stats)-->
+<a href="https://opgc.me/#/users/Suanna01" target="_blank"><img src="https://api.opgc.me/githubs/users/Suanna01/tag/?border=normal" /></a>
+-->
+
 
 
 </div>
 
-
-</div>
-
-<!--<div align="center">
-<h3>⌛ Coding Time ⌛</h3>
-
-[![Sungone's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Suanna01)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!--
 <div align="center">
