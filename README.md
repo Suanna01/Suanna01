@@ -88,10 +88,3 @@
 </div>
 
 
-<!--
-<div align="center">
-<h3>🥈 BOJ Profile 🥈</h3>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mer0ng)](https://solved.ac/mer0ng)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=mer0ng&theme=dark)
--->
