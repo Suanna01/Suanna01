@@ -27,7 +27,7 @@
 ### 👩🏻‍💻 Projects
 |Project|Contest|Tech| Award |Year|
 |:---:|:---:|:---:|:---:|:---:|
-|[클루팅 : 동아리 모집 과정을 통합해서 관리할 수 있고 지원 과정도 편리한 플랫폼](https://github.com/Cluting)|잇타 동아리 프로젝트|Back-End(SpringBoot)|  ?  |2024|
+|[클루팅 : 동아리 모집 과정을 통합해서 관리할 수 있고 지원 과정도 편리한 플랫폼](https://github.com/Cluting)|잇타 동아리 프로젝트|Back-End(SpringBoot)|  대상  |2024|
 |[동네친구 : 1인 가구 맞춤 동네 커뮤니티와 가계부 관리를 돕는 앱](https://github.com/DongnaeFriend)|UMC 동아리 프로젝트|Back-End(SpringBoot)|  참여  |2023|
 |[IDear : Chat GPT가 내가 원하는 인격으로 내가 원하는 글을 써주는 앱](https://github.com/Nbti)|UMC 너디너리 해커톤|Back-End(SpringBoot)|최우수상|2023|
 |[시시콜콜 : 시각장애인과 활동 지원사의 매칭을 도와주는 앱](https://github.com/sisicolcol)|KBSC(KB국민은행 소프트웨어 경진대회)|Back-End(Node.js)|  참여  |2022|
